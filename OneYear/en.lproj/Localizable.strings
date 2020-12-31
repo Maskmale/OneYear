@@ -1,0 +1,16 @@
+/* 
+  Localizations.strings
+  OneYear
+
+  Created by Lojii on 2018/11/14.
+  Copyright © 2018 Lojii. All rights reserved.
+*/
+"CFBundleName" = "Fleeting";
+"CFBundleDisplayName" = "Fleeting";
+"Remaining 0" = "";
+"Remaining 1" = " has passed";
+
+"Prompt" = "Prompt";
+"No notification permission please go to Settings to open" = "No notification permission, please go to Settings to open";
+"OK" = "OK";
+"Cancel" = "Cancel";

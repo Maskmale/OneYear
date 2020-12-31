@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  OneYear
+
+  Created by Lojii on 2018/12/3.
+  Copyright © 2018 Lojii. All rights reserved.
+*/
+"CFBundleName" = "Fleeting";
+"CFBundleDisplayName" = "Fleeting";

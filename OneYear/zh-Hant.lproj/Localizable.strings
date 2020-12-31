@@ -1,0 +1,16 @@
+/* 
+  Localizations.strings
+  OneYear
+
+  Created by Lojii on 2018/11/14.
+  Copyright © 2018 Lojii. All rights reserved.
+*/
+"CFBundleName" = "流年";
+"CFBundleDisplayName" = "流年";
+"Remaining 0" = "";
+"Remaining 1" = "年已過去";
+
+"Prompt" = "提示";
+"No notification permission please go to Settings to open" = "沒有通知權限，請前往設置開啟";
+"OK" = "確定";
+"Cancel" = "取消";
