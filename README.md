@@ -7,12 +7,13 @@
    尝试过上架，结果说我这个App的功能太少，拒了，然而我心中流年，就是这个样子，所以没有考虑加其他功能，上架之路就此作罢，流年也一直躺着我的文件夹里，只有换手机的时候，才会用xcode跑一遍，装到我自己的新手机上 2020年最后一天，通知栏里99.85%的进度格外的刺眼，遂想起了它，虽然没啥技术含量，虽然市面上有类似产品，但我喜欢这个App，毕竟当时写它，我花了大半天，本以为App Store会是它的归宿，结果iCloud里一躺就是两三年，是时候给它换个地方了，GitHub，听闻GitHub会将代码定期备份到最靠近北极的一个退役煤矿之中，想想也是很美妙的一件事
     
 ## 功能:
-   是一个能让你知道一年过去了多少的APP，功能很简单
-   支持Today Extension、支持Apple Watch以及所有表盘元素Complication Family
+ ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/Snipaste_2020-12-31_10-53-44.jpg)
+ 是一个能让你知道一年过去了多少的APP，功能很简单
+ 支持Today Extension、支持Apple Watch以及所有表盘元素Complication Family
 ## 截图:
 截图 | 截图 | 截图 
 --- |  --- | --- 
-![image](https://github.com/Lojii/OneYear/blob/main/screenshot/Snipaste_2020-12-31_10-53-44.jpg) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/IMG_2936.jpg) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/IMG_2937.jpg) 
-![image](https://github.com/Lojii/OneYear/blob/main/screenshot/IMG_2939.jpg) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(1).png) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(2).png)
+![image](https://github.com/Lojii/OneYear/blob/main/screenshot/IMG_2939.jpg) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/IMG_2936.jpg) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/IMG_2937.jpg) 
+![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb.png) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(1).png) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(2).png)
 ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(3).png) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(4).png) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(5).png)
-![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(6).png) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb.png)
+![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(6).png) 
