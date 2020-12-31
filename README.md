@@ -1,4 +1,5 @@
 # OneYear
+![image](https://github.com/Lojii/OneYear/blob/main/logo.png)
 ### 中文名:流年 
 ### 起因:
    两年前买了Apple Watch，就想着给我的手表写点什么东西，碰巧当时见着一款叫时间规划局的APP（不是现在付费榜第一的那款），简洁，有意思，我很喜欢，但是当时的那款APP太简单了，不支持Apple Watch，甚至连本地通知、Today Extension都没有，所以就有了它，流年，似水流年 
