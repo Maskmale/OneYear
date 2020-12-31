@@ -1,5 +1,5 @@
 # OneYear
-![image](https://github.com/Lojii/OneYear/blob/main/logo.png)
+![image](https://github.com/Lojii/OneYear/blob/main/icon.png)
 ### 中文名:流年 
 ### 起因:
    两年前买了Apple Watch，就想着给我的手表写点什么东西，碰巧当时见着一款叫时间规划局的APP（不是现在付费榜第一的那款），简洁，有意思，我很喜欢，但是当时的那款APP太简单了，不支持Apple Watch，甚至连本地通知、Today Extension都没有，所以就有了它，流年，似水流年 
@@ -10,4 +10,9 @@
    是一个能让你知道一年过去了多少的APP，功能很简单
    支持Today Extension、支持Apple Watch以及所有表盘元素Complication Family
 ## 截图:
-
+截图 | 截图 | 截图 
+--- |  --- | --- 
+![image](https://github.com/Lojii/OneYear/blob/main/screenshot/Snipaste_2020-12-31_10-53-44.jpg) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/IMG_2936.jpg) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/IMG_2937.jpg) 
+![image](https://github.com/Lojii/OneYear/blob/main/screenshot/IMG_2939.jpg) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(1).png) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(2).png)
+![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(3).png) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(4).png) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(5).png)
+![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb%20(6).png) | ![image](https://github.com/Lojii/OneYear/blob/main/screenshot/368x448bb.png)
